@@ -7,33 +7,33 @@ The Customer Sentiment & Sales Correlation Dashboard is a data analytics project
 This project integrates Python-based data processing with Power BI dashboards to transform raw customer data into meaningful business insights.
 
 <h2>🎯 Project Objectives</h2>
-•  Analyze customer sentiment (Positive, Neutral, Negative)
-•  Understand the relationship between sentiment and revenue
-•  Identify top-performing products based on sentiment
-•  Analyze sales trends over time and across regions
-•  Support data-driven business decisions
+•  Analyze customer sentiment (Positive, Neutral, Negative)<br>
+•  Understand the relationship between sentiment and revenue<br>
+•  Identify top-performing products based on sentiment<br>
+•  Analyze sales trends over time and across regions<br>
+•  Support data-driven business decisions<br>
 
 <h3>🗂 Dataset Used</h3>
 
-•  customer_purchase_data.csv
-•  customer_reviews_data.csv
-•  merged_customer_sentiment_sales.csv
+•  customer_purchase_data.csv<br>
+•  customer_reviews_data.csv<br>
+•  merged_customer_sentiment_sales.csv<br>
 
 <h4>Dataset Contains:</h4>
-•  Product Name & Category
-•  Country & Month
-•  Revenue
-•  Customer Reviews
-•  Sentiment Label (Positive / Neutral / Negative)
-•  Sentiment Polarity Score
+•  Product Name & Category<br>
+•  Country & Month<br>
+•  Revenue<br>
+•  Customer Reviews<br>
+•  Sentiment Label (Positive / Neutral / Negative)<br>
+•  Sentiment Polarity Score<br>
 
 
 <h3>🛠 Tools & Technologies</h3>
 
-•  Python (Pandas, NumPy) – Data cleaning, merging & preprocessing
-•  Power BI – Dashboard creation & analysis
-•  DAX – Measures & KPIs
-•  CSV / Excel – Data storage
+•  Python (Pandas, NumPy) – Data cleaning, merging & preprocessing<br>
+•  Power BI – Dashboard creation & analysis<br>
+•  DAX – Measures & KPIs<br>
+•  CSV / Excel – Data storage<br>
 
 <h3>📐 DAX Measures Used</h3>
 
@@ -58,19 +58,19 @@ This project integrates Python-based data processing with Power BI dashboards to
 
 <h3>🔑 Key Insights</h3>
 
-•  Total Revenue: 15M
-•  Total Reviews: 10K
-•  Positive Reviews: 73%
-•  Revenue increased from 2023 to 2024, aligned with improved sentiment
-•  Positive sentiment contributes over 70% of total revenue
+•  Total Revenue: 15M<br>
+•  Total Reviews: 10K<br>
+•  Positive Reviews: 73%<br>
+•  Revenue increased from 2023 to 2024, aligned with improved sentiment<br>
+•  Positive sentiment contributes over 70% of total revenue<br>
 
 <h3>📌 Visuals Included</h3>
 
-•  KPI Cards (Revenue, Reviews, Avg Sentiment)
-•  Revenue vs Avg Sentiment by Year
-•  Revenue Distribution by Sentiment
-•  Revenue by Product Name
-•  Filters for Category, Country, Month, and Sentiment
+•  KPI Cards (Revenue, Reviews, Avg Sentiment)<br>
+•  Revenue vs Avg Sentiment by Year<br>
+•  Revenue Distribution by Sentiment<br>
+•  Revenue by Product Name<br>
+•  Filters for Category, Country, Month, and Sentiment<br>
 
 
 <h2>📊 Dashboard 2: Product Sentiment & Performance Analysis</h2>
@@ -83,17 +83,17 @@ This dashboard focuses on product-level analysis, highlighting how sentiment aff
 
 <h3>🔑 Key Insights</h3>
 
-•  Home Appliances generate higher revenue than Electronics
-•  Products like Toaster, Smartwatch, Heater perform consistently well
-•  Laptop has the highest average sentiment polarity
-•  Products with higher positive sentiment generally receive more reviews and revenue
+•  Home Appliances generate higher revenue than Electronics<br>
+•  Products like Toaster, Smartwatch, Heater perform consistently well<br>
+•  Laptop has the highest average sentiment polarity<br>
+•  Products with higher positive sentiment generally receive more reviews and revenue<br>
 
 <h3>📌 Visuals Included</h3>
 
-•  Product-wise Revenue & Sentiment Table
-•  Revenue by Product Name (Bar Chart)
-•  Avg Sentiment Polarity by Product
-•  Sentiment distribution by Product Category
+•  Product-wise Revenue & Sentiment Table<br>
+•  Revenue by Product Name (Bar Chart)<br>
+•  Avg Sentiment Polarity by Product<br>
+•  Sentiment distribution by Product Category<br>
 
 
 <h2>📊 Dashboard 3: Geographical & Temporal Analysis</h2>
@@ -106,32 +106,32 @@ This dashboard analyzes sales and sentiment trends across time and geography.
 
 <h3>🔑 Key Insights</h3>
 
-•  Q3 and Q4 show the highest revenue contribution
-•  September and December are peak months for sales
-•  Monthly sentiment polarity trends closely follow revenue patterns
-•  North America and Asia contribute the highest revenue globally
+•  Q3 and Q4 show the highest revenue contribution<br>
+•  September and December are peak months for sales<br>
+•  Monthly sentiment polarity trends closely follow revenue patterns<br>
+•  North America and Asia contribute the highest revenue globally<br>
 
 <h3>📌 Visuals Included</h3>
 
-•  Monthly Revenue vs Avg Sentiment Trend
-•  World Map showing Revenue by Country
-•  Quarterly Revenue split by Sentiment
+•  Monthly Revenue vs Avg Sentiment Trend<br>
+•  World Map showing Revenue by Country<br>
+•  Quarterly Revenue split by Sentiment<br>
 
 <h3>📈 Overall Insights Summary</h3>
 
-•  Positive sentiment has a strong correlation with higher revenue
-•  Products with higher engagement (reviews) perform better
-•  Seasonal trends significantly affect sales and sentiment
-•  Neutral sentiment still contributes a substantial portion of revenue
-•  Regional demand patterns influence overall performance
+•  Positive sentiment has a strong correlation with higher revenue<br>
+•  Products with higher engagement (reviews) perform better<br>
+•  Seasonal trends significantly affect sales and sentiment<br>
+•  Neutral sentiment still contributes a substantial portion of revenue<br>
+•  Regional demand patterns influence overall performance<br>
 
 <h3>🚀 Future Enhancements</h3>
 
-•  Real-time sentiment analysis using APIs
-•  Advanced NLP models (BERT / Transformers)
-•  Customer segmentation & churn analysis
-•  Predictive sales forecasting
-•  Live database integration
+•  Real-time sentiment analysis using APIs<br>
+•  Advanced NLP models (BERT / Transformers)<br>
+•  Customer segmentation & churn analysis<br>
+•  Predictive sales forecasting<br>
+•  Live database integration<br>
 
 ✅ This project demonstrates strong skills in data analytics, sentiment analysis, Power BI, DAX, and business storytelling.
 
